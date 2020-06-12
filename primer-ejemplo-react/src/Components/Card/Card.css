@@ -1,0 +1,8 @@
+.contenedor{
+    width: 20vw;
+    height: 40vh;
+}
+
+.is-orange{
+    background-color: darkorange;
+}

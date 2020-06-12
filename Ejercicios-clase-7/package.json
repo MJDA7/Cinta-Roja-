@@ -4,7 +4,8 @@
   "description": "Ejercicos de la clase 7 (Promesas)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pokeapi": "node pokeapi.js"
   },
   "author": "Maria Jose",
   "license": "MIT",
